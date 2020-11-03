@@ -1,4 +1,4 @@
-# vueassignment
+# first_app
 
 ## Project setup
 ```
